@@ -8,7 +8,7 @@
 ### 🎯 Objective: ICPC
 I am a 3rd trimester Computer Science and Engineering student at **Green University of Bangladesh**, executing a brutal training grind focused entirely on Competitive Programming, advanced algorithms, and data structures. 
 
-- 🛡️ **Team:** Proud member of the 5-member **GUB Dragons** squad.
+- 🛡️ **Team:** Proud member of the 3-member **GUB Dragons** squad.
 - ⚡ **Current Focus:** Mastery of complex data structures, graph theory, and dynamic programming for upcoming regionals.
 - 🛠️ **Weapons of Choice:** Highly optimized C and C++.
 
