@@ -44,10 +44,14 @@ I am a CS undergrad dedicating my primary bandwidth to mastering Competitive Pro
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Vjudge-Active_Grind-blue?style=for-the-badge" alt="Vjudge" />
+      <a href="https://vjudge.net/user/mitratanmoy246">
+        <img src="https://img.shields.io/badge/Vjudge-mitratanmoy246-0052CC?style=for-the-badge" alt="Vjudge" />
+      </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Beecrowd-Active_Grind-yellow?style=for-the-badge" alt="Beecrowd" />
+      <a href="https://greenoj.bd/user/userProfile/mitratanmoy246">
+        <img src="https://img.shields.io/badge/GreenOJ-Rank_3-4CAF50?style=for-the-badge" alt="GreenOJ Rank 3" />
+      </a>
     </td>
   </tr>
 </table>
