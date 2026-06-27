@@ -1,43 +1,52 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Tanmoy+Mitra;Competitive+Programmer;Web+Developer" alt="Typing SVG" />
+  <!-- Minimalist Obsidian Aesthetic Banner -->
+  <img src="https://capsule-render.vercel.app/header?type=rect&color=000000&text=TANMOY%20MITRA&fontSize=35&fontColor=ffffff&fontAlignY=50&height=180&animation=twinkling" width="100%" alt="Banner" />
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Architecture;Competitive+Programming;Optimized+Codebases" alt="Typing SVG" />
 </div>
 
-<br>
+---
 
-## ⬛ Architecture & Projects
+## ⬛ Core Repository Portfolio
 
-Focusing on highly optimized C/C++ solutions and scalable web architecture. My repositories are a direct reflection of my problem-solving pipeline and development iterations.
+A comprehensive, production-grade index of standalone projects, algorithmic frameworks, and development iterations.
 
-| 🏆 Highlighted Repositories | Description |
-| :--- | :--- |
-| **[CodeChef Solutions](https://github.com/mitratanmoy246/codechef_solutions)** | An archive of competitive programming solutions and algorithmic problem-solving. |
-| **[MiniCalc](https://github.com/mitratanmoy246/MiniCalac_cse_104_lab_final_project)** | Mathematical processing and recursion implementations built in C. |
-| **[Portfolio Archive](https://github.com/mitratanmoy246/tm_portfolio)** | Codebase for my personal web development portfolio and design iterations. |
-| **[CP Templates](https://github.com/mitratanmoy246/Templates)** | Highly optimized, pre-written algorithms and data structures for rapid contest deployment. |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏆 <a href="https://github.com/mitratanmoy246/codechef_solutions">CodeChef Solutions</a></h4>
+      <p>A highly structured archive containing verified, optimal problem solutions categorized by algorithmic paradigms and contest iterations.</p>
+      <img src="https://img.shields.io/badge/Language-C++-ff69b4?style=flat-square&color=0D1117" alt="C++" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/mitratanmoy246/Templates">CP Templates</a></h4>
+      <p>Pre-compiled, low-latency, and highly optimized data structures and competitive templates engineered for rapid deployment during live contests.</p>
+      <img src="https://img.shields.io/badge/Language-C++-ff69b4?style=flat-square&color=0D1117" alt="C++" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧮 <a href="https://github.com/mitratanmoy246/MiniCalac_cse_104_lab_final_project">MiniCalc Engine</a></h4>
+      <p>A specialized processing system utilizing advanced mathematical evaluation, deep recursion layers, and memory-safe code parsing in pure C.</p>
+      <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square&color=0D1117" alt="C" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/mitratanmoy246/tm_portfolio">Portfolio Architecture</a></h4>
+      <p>The layout engine and underlying codebase powering design iterations, interactive components, and clean UI/UX deployments.</p>
+      <img src="https://img.shields.io/badge/Language-HTML%20%2F%20CSS-orange?style=flat-square&color=0D1117" alt="HTML/CSS" />
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-## ⚙️ Development Stack
+## 🛠️ Monolithic Stack
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
-  </a>
-</div>
+The specific low-level and high-level tools leveraged across active architectures.
 
-<br>
-
-## 📊 Technical Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff" height="195px" alt="Tanmoy's Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitratanmoy246&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=9e9e9e" height="195px" alt="Top Languages"/>
-</div>
-
-<br>
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitratanmoy246&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+```yaml
+Languages: [ C, C++, PHP ]
+Frontend:  [ HTML5, CSS3, JavaScript(Learning) ]
+Tooling:   [ Git, GitHub, Linux Bash, VS Code ]
