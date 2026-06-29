@@ -1,5 +1,17 @@
+<!-- 
+  =============================================================================
+  THE APEX TERMINAL 
+  Architected for Tanmoy Mitra 
+  A high-performance, dark-mode, crimson & charcoal CP dashboard.
+  =============================================================================
+-->
+
 <div align="center">
 
+  <!-- ========================================== -->
+  <!-- HIGH-END TYPING TITLE INTERFACE            -->
+  <!-- ========================================== -->
+  
   <a href="https://github.com/mitratanmoy246">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=E21C21&center=true&vCenter=true&width=850&height=90&lines=TANMOY+MITRA;COMPETITIVE+PROGRAMMER;ALGORITHMIC+ARCHITECT;SYSTEMS+ENGINEER" 
@@ -17,6 +29,9 @@
 
   <br>
 
+  <!-- ========================================== -->
+  <!-- CRIMSON STATUS PROTOCOLS                   -->
+  <!-- ========================================== -->
   <p align="center">
     <img 
       src="https://img.shields.io/badge/FOCUS-COMPETITIVE_PROGRAMMING-E21C21?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" 
@@ -41,6 +56,10 @@
   <br>
   <br>
 
+  <!-- ========================================== -->
+  <!-- INDEPENDENT VANGUARD PROTOCOL              -->
+  <!-- ========================================== -->
+
   <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
     <tr>
       <td width="100%" valign="top" style="border: none; padding: 10px;">
@@ -57,11 +76,16 @@
 
   <br>
 
+  <!-- ========================================== -->
+  <!-- 4-GRAPH DYNAMIC TELEMETRY GRID             -->
+  <!-- ========================================== -->
+
   <h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace; padding-left: 10px;">█ LIVE TELEMETRY MATRIX</h3>
   <br>
 
   <table width="100%" style="border: none; border-collapse: collapse;">
     <tr>
+      <!-- Graph 1: Codeforces Card -->
       <td align="center" width="50%" style="padding: 10px; border: none;">
         <a href="https://codeforces.com/profile/mitratanmoy246">
           <img 
@@ -71,22 +95,25 @@
           />
         </a>
       </td>
+      <!-- Graph 2: GitHub Main Stats (Fixed Proxy Issue) -->
       <td align="center" width="50%" style="padding: 10px; border: none;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&title_color=E21C21&icon_color=E21C21&text_color=ffffff" 
+          src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=dark&hide_border=true&title_color=E21C21&icon_color=E21C21&text_color=ffffff&cache_seconds=86400&v=1" 
           alt="GitHub Main Metrics" 
           width="100%"
         />
       </td>
     </tr>
     <tr>
+      <!-- Graph 3: Language Compilers (Fixed Endpoint & Proxy) -->
       <td align="center" width="50%" style="padding: 10px; border: none;">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitratanmoy246&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=E21C21&text_color=ffffff" 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=mitratanmoy246&layout=compact&theme=dark&hide_border=true&title_color=E21C21&text_color=ffffff&cache_seconds=86400&v=1" 
           alt="Compiler Distribution" 
           width="100%"
         />
       </td>
+      <!-- Graph 4: Dynamic Execution Streak -->
       <td align="center" width="50%" style="padding: 10px; border: none;">
         <img 
           src="https://github-readme-streak-stats.herokuapp.com/?user=mitratanmoy246&theme=dark&bg_color=0d1117&hide_border=true&stroke=E21C21&fire=E21C21&ring=E21C21&title_color=E21C21&sideNums=ffffff&sideLabels=ffffff" 
@@ -106,6 +133,10 @@
 
   <br>
   <br>
+
+  <!-- ========================================== -->
+  <!-- ALGORITHMIC RUNTIMES & ARENAS              -->
+  <!-- ========================================== -->
 
   <h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace; padding-left: 10px;">█ COMPETITIVE ARENAS</h3>
   <br>
@@ -171,6 +202,10 @@
   <br>
   <br>
 
+  <!-- ========================================== -->
+  <!-- PRODUCTION REPOSITORIES BLOCK              -->
+  <!-- ========================================== -->
+
   <h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace; padding-left: 10px;">█ REPOSITORIES & TEMPLATES</h3>
   <br>
 
@@ -227,6 +262,10 @@
 
   <br>
   <br>
+
+  <!-- ========================================== -->
+  <!-- PREMIUM SECTIONAL CLOSURE                  -->
+  <!-- ========================================== -->
 
   <p align="center">
     <img 
