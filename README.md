@@ -12,18 +12,22 @@
 
 ---
 
-### 📈 Competitive Programming Arenas
-*My real-time performance tracking and algorithmic metrics.*
+### 📈 Competitive Programming & GitHub Stats
 
 <div align="center">
-  <!-- Codeforces Stat Card -->
-  <a href="https://codeforces.com/profile/mitratanmoy246">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mitratanmoy246&repo=cf_solutions&theme=radical&show_icons=true" alt="Codeforces Stats" />
-  </a>
+  <!-- Codeforces Stats -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mitratanmoy246&theme=radical&show_icons=true" alt="Codeforces Stats" />
+  
+  <!-- GitHub Activity -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=onedark&hide_border=true&count_private=true&title_color=E21C21&icon_color=E21C21" />
+  
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitratanmoy246&theme=onedark&fire=E21C21" />
 </div>
 
-<br>
+---
 
+### ⚔️ Platform Links
 <table width="100%">
   <tr>
     <td align="center"><a href="https://codeforces.com/profile/mitratanmoy246"><img src="https://img.shields.io/badge/Codeforces-mitratanmoy246-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a></td>
@@ -37,38 +41,23 @@
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=onedark&hide_border=true&count_private=true&title_color=E21C21&icon_color=E21C21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitratanmoy246&layout=compact&theme=onedark&hide_border=true&title_color=E21C21" />
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitratanmoy246&theme=onedark&fire=E21C21" />
-</div>
-
----
-
 ### 📂 Key Repositories
-*Projects reflecting my algorithmic grind and web development progress.*
-
 | Repository | Description |
 | :--- | :--- |
-| [**mitratanmoy246**](https://github.com/mitratanmoy246/mitratanmoy246) | Profile README & foundational scripts |
-| [**cf_solutions**](https://github.com/mitratanmoy246/cf_solutions) | Competitive programming solutions (C++) |
-| [**Templates**](https://github.com/mitratanmoy246/Templates) | Optimized algorithmic code templates |
-| [**tm_portfolio**](https://github.com/mitratanmoy246/tm_portfolio) | Personal portfolio development |
+| [**mitratanmoy246**](https://github.com/mitratanmoy246/mitratanmoy246) | Profile README & Foundation |
+| [**cf_solutions**](https://github.com/mitratanmoy246/cf_solutions) | Competitive Programming (C++) |
+| [**Templates**](https://github.com/mitratanmoy246/Templates) | Algorithmic Code Templates |
+| [**tm_portfolio**](https://github.com/mitratanmoy246/tm_portfolio) | Web Development Portfolio |
 
 ---
 
 ### ⚙️ Technical Arsenal
 | Domain | Technologies |
 | :--- | :--- |
-| **Core** | C, C++, Python |
+| **Core** | C, C++, PHP, Python |
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Tooling** | Git, Linux Bash, VS Code |
 
----
-
 <div align="center">
-  <small><i>"The workspace — Built for performance and consistency."</i></small>
+  <small><i>"The Red Dragon’s workspace — Built for performance and consistency."</i></small>
 </div>
