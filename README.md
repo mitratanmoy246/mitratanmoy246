@@ -82,31 +82,24 @@
   <h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace; padding-left: 10px;">█ LIVE TELEMETRY MATRIX</h3>
   <br>
 
-  <!-- Top Metrics: Codeforces & Core GitHub Stats -->
-  <table width="100%" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" width="50%" style="padding: 10px; border: none;">
-        <a href="https://codeforces.com/profile/mitratanmoy246">
-          <img 
-            src="https://codeforces-readme-stats.vercel.app/api/card?username=mitratanmoy246&theme=dark&card_bg=0d1117&title_color=E21C21&icon_color=E21C21&text_color=ffffff&show_icons=true" 
-            alt="Codeforces Metrics" 
-            width="100%"
-          />
-        </a>
-      </td>
-      <td align="center" width="50%" style="padding: 10px; border: none;">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&title_color=E21C21&icon_color=E21C21&text_color=ffffff&cache_seconds=1800" 
-          alt="GitHub Main Metrics" 
-          width="100%"
-        />
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <a href="https://codeforces.com/profile/mitratanmoy246">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mitratanmoy246&theme=dark&card_bg=0d1117&title_color=E21C21&icon_color=E21C21&text_color=ffffff&show_icons=true" height="160" alt="Codeforces Metrics" />
+    </a>
+  </div>
+  
+  <br/>
 
-  <!-- Full-Width Dynamic Activity Graph (Red/Black Integrated) -->
-  <div align="center" style="padding: 10px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitratanmoy246&bg_color=0d1117&color=E21C21&line=E21C21&point=ffffff&area=true&area_color=E21C21&hide_border=true&custom_title=Execution%20Activity" width="100%" alt="Activity Graph" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E21C21&icon_color=E21C21&text_color=ffffff&count_private=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitratanmoy246&layout=compact&hide_border=true&bg_color=0d1117&title_color=E21C21&text_color=ffffff&langs_count=6&cache_seconds=1800" height="160" alt="Top Languages" />
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitratanmoy246&bg_color=0d1117&color=E21C21&line=E21C21&point=ffffff&area=true&area_color=E21C21&hide_border=true" width="100%" alt="Activity Graph" />
   </div>
 
   <br>
@@ -130,49 +123,31 @@
     <tr>
       <td align="center" width="33%" style="padding: 10px;">
         <a href="https://codeforces.com/profile/mitratanmoy246">
-          <img 
-            src="https://img.shields.io/badge/Codeforces-mitratanmoy246-0d1117?style=for-the-badge&logo=codeforces&logoColor=E21C21&border=1&color=0d1117" 
-            alt="Codeforces Profile" 
-          />
+          <img src="https://img.shields.io/badge/Codeforces-mitratanmoy246-0d1117?style=for-the-badge&logo=codeforces&logoColor=E21C21&border=1&color=0d1117" alt="Codeforces Profile" />
         </a>
       </td>
       <td align="center" width="33%" style="padding: 10px;">
         <a href="https://www.codechef.com/users/band_deed_94">
-          <img 
-            src="https://img.shields.io/badge/CodeChef-band__deed__94-0d1117?style=for-the-badge&logo=codechef&logoColor=E21C21&color=0d1117" 
-            alt="CodeChef Profile" 
-          />
+          <img src="https://img.shields.io/badge/CodeChef-band__deed__94-0d1117?style=for-the-badge&logo=codechef&logoColor=E21C21&color=0d1117" alt="CodeChef Profile" />
         </a>
       </td>
       <td align="center" width="33%" style="padding: 10px;">
         <a href="https://vjudge.net/user/mitratanmoy246">
-          <img 
-            src="https://img.shields.io/badge/Vjudge-mitratanmoy246-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" 
-            alt="Vjudge Profile" 
-          />
+          <img src="https://img.shields.io/badge/Vjudge-mitratanmoy246-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" alt="Vjudge Profile" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%" style="padding: 10px;">
         <a href="https://greenoj.bd/user/userProfile/mitratanmoy246">
-          <img 
-            src="https://img.shields.io/badge/GreenOJ-Rank__3-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" 
-            alt="GreenOJ Profile" 
-          />
+          <img src="https://img.shields.io/badge/GreenOJ-Rank__3-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" alt="GreenOJ Profile" />
         </a>
       </td>
       <td align="center" width="33%" style="padding: 10px;">
-        <img 
-          src="https://img.shields.io/badge/Beecrowd-Active-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" 
-          alt="Beecrowd" 
-        />
+        <img src="https://img.shields.io/badge/Beecrowd-Active-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" alt="Beecrowd" />
       </td>
       <td align="center" width="33%" style="padding: 10px;">
-        <img 
-          src="https://img.shields.io/badge/AtCoder-Active-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" 
-          alt="AtCoder" 
-        />
+        <img src="https://img.shields.io/badge/AtCoder-Active-0d1117?style=for-the-badge&logoColor=E21C21&color=0d1117" alt="AtCoder" />
       </td>
     </tr>
   </table>
