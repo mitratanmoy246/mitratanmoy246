@@ -3,11 +3,6 @@
 # TANMOY MITRA
 *Computer Science & Engineering Student | Competitive Programmer*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-8B0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Contributions-77+-8B0000?style=for-the-badge">
-</p>
-
 </div>
 
 ---
@@ -18,11 +13,20 @@
   <!-- Codeforces Stats -->
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mitratanmoy246&theme=radical&show_icons=true" alt="Codeforces Stats" />
   
-  <!-- GitHub Activity -->
+  <!-- Dynamic GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=onedark&hide_border=true&count_private=true&title_color=E21C21&icon_color=E21C21" />
   
-  <!-- Contribution Streak -->
+  <!-- Dynamic Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitratanmoy246&theme=onedark&fire=E21C21" />
+</div>
+
+---
+
+### 📊 Contribution Activity
+<!-- This automatically generates your real-time contribution graph -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitratanmoy246&theme=onedark&fire=E21C21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitratanmoy246&layout=compact&theme=onedark&hide_border=true&title_color=E21C21" />
 </div>
 
 ---
@@ -50,13 +54,6 @@
 | [**tm_portfolio**](https://github.com/mitratanmoy246/tm_portfolio) | Web Development Portfolio |
 
 ---
-
-### ⚙️ Technical Arsenal
-| Domain | Technologies |
-| :--- | :--- |
-| **Core** | C, C++, PHP, Python |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Tooling** | Git, Linux Bash, VS Code |
 
 <div align="center">
   <small><i>"The Red Dragon’s workspace — Built for performance and consistency."</i></small>
