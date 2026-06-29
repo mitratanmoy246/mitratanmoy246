@@ -33,13 +33,12 @@
   <!-- CRIMSON STATUS PROTOCOLS                   -->
   <!-- ========================================== -->
   <p align="center">
+    <a href="https://tanmoym.pro.bd">
+      <img src="https://img.shields.io/badge/PORTFOLIO-tanmoym.pro.bd-E21C21?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+    </a>
     <img 
       src="https://img.shields.io/badge/FOCUS-COMPETITIVE_PROGRAMMING-E21C21?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" 
       alt="Core State" 
-    />
-    <img 
-      src="https://img.shields.io/badge/RANKING-GLOBAL_CONTENDER-E21C21?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" 
-      alt="Environment" 
     />
     <img 
       src="https://img.shields.io/badge/CORE_LANG-C%2B%2B-E21C21?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" 
@@ -68,7 +67,7 @@
           I operate as an independent computational problem-solver, specializing in high-performance geometry, pure graph optimization, and complex algorithmic processing loops. My objective is maximizing systemic performance and execution safety under severe time limits.
         </p>
         <p align="justify" style="font-family: sans-serif; color: #CCCCCC; line-height: 1.6;">
-          An aggressive approach to logic drives my daily routine across global competitive arenas. Beyond raw problem-solving, I heavily invest in decoding and instructing peers on the underlying mechanics of <b>Online Judge (OJ) platforms</b>—mastering the architecture of the arena is just as vital as writing the code.
+          An aggressive approach to logic drives my daily routine across global competitive arenas. Beyond raw problem-solving, I heavily invest in decoding the underlying mechanics of <b>Online Judge (OJ) platforms</b>—mastering the architecture of the arena is just as vital as writing the code.
         </p>
       </td>
     </tr>
@@ -77,15 +76,15 @@
   <br>
 
   <!-- ========================================== -->
-  <!-- 4-GRAPH DYNAMIC TELEMETRY GRID             -->
+  <!-- DYNAMIC TELEMETRY MATRIX                   -->
   <!-- ========================================== -->
 
   <h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace; padding-left: 10px;">█ LIVE TELEMETRY MATRIX</h3>
   <br>
 
+  <!-- Top Metrics: Codeforces & Core GitHub Stats -->
   <table width="100%" style="border: none; border-collapse: collapse;">
     <tr>
-      <!-- Graph 1: Codeforces Card -->
       <td align="center" width="50%" style="padding: 10px; border: none;">
         <a href="https://codeforces.com/profile/mitratanmoy246">
           <img 
@@ -95,34 +94,20 @@
           />
         </a>
       </td>
-      <!-- Graph 2: GitHub Main Stats (Fixed Proxy Issue) -->
       <td align="center" width="50%" style="padding: 10px; border: none;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=dark&hide_border=true&title_color=E21C21&icon_color=E21C21&text_color=ffffff&cache_seconds=86400&v=1" 
+          src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&title_color=E21C21&icon_color=E21C21&text_color=ffffff&cache_seconds=1800" 
           alt="GitHub Main Metrics" 
           width="100%"
         />
       </td>
     </tr>
-    <tr>
-      <!-- Graph 3: Language Compilers (Fixed Endpoint & Proxy) -->
-      <td align="center" width="50%" style="padding: 10px; border: none;">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=mitratanmoy246&layout=compact&theme=dark&hide_border=true&title_color=E21C21&text_color=ffffff&cache_seconds=86400&v=1" 
-          alt="Compiler Distribution" 
-          width="100%"
-        />
-      </td>
-      <!-- Graph 4: Dynamic Execution Streak -->
-      <td align="center" width="50%" style="padding: 10px; border: none;">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=mitratanmoy246&theme=dark&bg_color=0d1117&hide_border=true&stroke=E21C21&fire=E21C21&ring=E21C21&title_color=E21C21&sideNums=ffffff&sideLabels=ffffff" 
-          alt="Execution Stream" 
-          width="100%"
-        />
-      </td>
-    </tr>
   </table>
+
+  <!-- Full-Width Dynamic Activity Graph (Red/Black Integrated) -->
+  <div align="center" style="padding: 10px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitratanmoy246&bg_color=0d1117&color=E21C21&line=E21C21&point=ffffff&area=true&area_color=E21C21&hide_border=true&custom_title=Execution%20Activity" width="100%" alt="Activity Graph" />
+  </div>
 
   <br>
   <br>
@@ -206,7 +191,7 @@
   <!-- PRODUCTION REPOSITORIES BLOCK              -->
   <!-- ========================================== -->
 
-  <h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace; padding-left: 10px;">█ REPOSITORIES & TEMPLATES</h3>
+  <h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace; padding-left: 10px;">█ REPOSITORIES & ARCHIVES</h3>
   <br>
 
   <table width="100%" style="border-collapse: collapse; border: 1px solid #222222; font-family: sans-serif;">
@@ -225,7 +210,7 @@
           </a>
         </td>
         <td align="left" style="padding: 12px; color: #CCCCCC; border-bottom: 1px solid #222222;">
-          Daily algorithmic implementations. Time-optimized solutions engineered specifically for Codeforces problem sets.
+          Daily algorithmic implementations. Time-optimized solutions engineered specifically for Codeforces.
         </td>
         <td align="center" style="padding: 12px; border-bottom: 1px solid #222222;">
           <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=E21C21&color=0d1117&border=1" alt="C++" />
@@ -238,7 +223,7 @@
           </a>
         </td>
         <td align="left" style="padding: 12px; color: #CCCCCC; border-bottom: 1px solid #222222;">
-          Pre-compiled boilerplate implementations (Sieve, BFS/DFS, Number Theory) for rapid contest deployment.
+          Pre-compiled boilerplate code for rapid contest deployment across various platforms.
         </td>
         <td align="center" style="padding: 12px; border-bottom: 1px solid #222222;">
           <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=E21C21&color=0d1117" alt="C++" />
@@ -251,10 +236,10 @@
           </a>
         </td>
         <td align="left" style="padding: 12px; color: #CCCCCC; border-bottom: 1px solid #222222;">
-          Personal web portfolio showcasing professional identity and scalable front-end design aesthetics.
+          The source code powering <a href="https://tanmoym.pro.bd" style="color: #E21C21;">tanmoym.pro.bd</a>.
         </td>
         <td align="center" style="padding: 12px; border-bottom: 1px solid #222222;">
-          <img src="https://img.shields.io/badge/HTML/CSS-0d1117?style=flat-square&logo=html5&logoColor=E21C21&color=0d1117" alt="Web" />
+          <img src="https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=html5&logoColor=E21C21&color=0d1117" alt="Web" />
         </td>
       </tr>
     </tbody>
