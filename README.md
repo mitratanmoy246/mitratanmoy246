@@ -63,6 +63,7 @@
 ║                                                                   ║
 ║  Name        : Tanmoy Mitra                                       ║
 ║  Location    : Bangladesh                                         ║
+║  Institute   : Green University of Bangladesh                     ║
 ║  Role        : Competitive Programmer & Developer                 ║
 ║                                                                   ║
 ║  Passion                                                   ✔      ║
