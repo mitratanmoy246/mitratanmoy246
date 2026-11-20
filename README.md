@@ -1,171 +1,75 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=E21C21&center=true&vCenter=true&width=850&height=90&lines=TANMOY+MITRA;COMPETITIVE+PROGRAMMER;ALGORITHMIC+ARCHITECT;SYSTEMS+ENGINEER" alt="System Header" />
 
-  <br>
+# Tanmoy Mitra
 
-  <p align="center">
-    <code style="color: #E21C21; padding: 5px 10px; border-radius: 3px; border: 1px solid #E21C21;">
-      [SYSTEM STATUS: ONLINE] // BSc CSE · Green University of Bangladesh
-    </code>
-  </p>
+**CS Undergrad · Full-Stack & AI Builder · Competitive Programmer**  
+BSc in Computer Science & Engineering · Green University of Bangladesh · Dhaka, Bangladesh
 
-  <br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanmoym.pro.bd-1B365D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanmoym.pro.bd)
+[![Codeforces](https://img.shields.io/badge/Codeforces-mitratanmoy246-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mitratanmoy246)
+[![CodeChef](https://img.shields.io/badge/CodeChef-band__deed__94-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/band_deed_94)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-  <p align="center">
-    <a href="https://tanmoym.pro.bd">
-      <img src="https://img.shields.io/badge/PORTFOLIO-tanmoym.pro.bd-E21C21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/mitratanmoy246">
-      <img src="https://img.shields.io/badge/GitHub-mitratanmoy246-E21C21?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/tanmoy-mitra-470341404">
-      <img src="https://img.shields.io/badge/LinkedIn-Tanmoy_Mitra-E21C21?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
 </div>
 
-<hr style="border: 1px solid #E21C21; margin: 20px 0;">
+---
 
-<h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace;">█ ALGORITHMIC DOCTRINE</h3>
-<p align="justify" style="font-family: sans-serif; line-height: 1.6;">
-  CS undergrad by day, competitive programmer by passion. I operate as an independent computational problem-solver, specializing in high-performance geometry, pure graph optimization, and complex algorithmic processing loops. My objective is maximizing systemic performance and execution safety under severe time limits.
-</p>
-<div align="center">
-  <code style="background-color: transparent; font-size: 14px; text-align: left; display: inline-block;">
-    &nbsp;currently &nbsp;→&nbsp; BSc CSE · Green University of Bangladesh<br>
-    &nbsp;competing &nbsp;→&nbsp; Codeforces · AtCoder · CodeChef · LeetCode<br>
-    &nbsp;building &nbsp;&nbsp;→&nbsp; full-stack web projects · CP solution archives<br>
-    &nbsp;goal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; researcher · strong engineer · algorithmic vanguard
-  </code>
-</div>
+### About Me
 
-<hr style="border: 1px solid #E21C21; margin: 20px 0;">
+I build software systems that combine **algorithmic efficiency** with **practical full-stack and AI engineering**. My work spans web applications, developer tooling, graph-based threat intelligence, and embedded robotics.
 
-<h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace;">█ TECHNICAL ARSENAL</h3>
-<div align="center">
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td align="right" style="color: #E21C21; font-weight: bold; padding-right: 15px; border: none;">Languages</td>
-      <td align="left" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right" style="color: #E21C21; font-weight: bold; padding-right: 15px; border: none;">Web</td>
-      <td align="left" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right" style="color: #E21C21; font-weight: bold; padding-right: 15px; border: none;">Tools</td>
-      <td align="left" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" />
-      </td>
-    </tr>
-  </table>
-</div>
+- **Education:** BSc in Computer Science & Engineering, Green University of Bangladesh
+- **Current Focus:** AI-integrated web applications, browser extensions, and scalable backend architectures
+- **Competitive Programming:** Codeforces Pupil · ICPC Asia Dhaka Regional Preliminary Participant (Rank 254 / 1,100+ teams) · 1st Runner-Up, Intra Green Programming Contest 2026 (`CODE GREY`)
+- **Hardware & Systems:** Embedded robotics (ESP32/Arduino), Web Bluetooth dashboards, and custom PCB prototyping
 
-<hr style="border: 1px solid #E21C21; margin: 20px 0;">
+---
 
-<h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace;">█ LIVE TELEMETRY</h3>
-<div align="center">
-  <table width="100%" style="border: none; border-collapse: collapse; background: transparent;">
-    <tr>
-      <td align="center" width="50%" style="padding: 10px; border: none;">
-        <a href="https://codeforces.com/profile/mitratanmoy246">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mitratanmoy246&theme=transparent&title_color=E21C21&icon_color=E21C21&show_icons=true" width="100%" alt="Codeforces Metrics" />
-        </a>
-      </td>
-      <td align="center" width="50%" style="padding: 10px; border: none;">
-        <a href="https://leetcode.com/u/mitratanmoy246/">
-          <img src="https://leetcard.jacoblin.cool/mitratanmoy246?theme=dark&font=Fira%20Code&ext=contest" width="100%" alt="LeetCode Metrics" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+### Featured Repositories & Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[tm_portfolio](https://github.com/mitratanmoy246/tm_portfolio)** | Personal developer portfolio (`tanmoym.pro.bd`) with a terminal-inspired UI and live Codeforces, CodeChef, and GitHub stats. | JavaScript, HTML/CSS, GitHub Pages |
+| **[CodeForge](https://github.com/mitratanmoy246/CodeForge)** | Software development project and developer tooling. | Full-Stack |
+| **[cf_solutions](https://github.com/mitratanmoy246/cf_solutions)** | Structured archive of time- and memory-optimized competitive programming solutions. | C++23 |
+| **[Templates](https://github.com/mitratanmoy246/Templates)** | Battle-tested C++23 contest templates, fast I/O, and ICPC algorithmic library. | C++23, LaTeX |
+| **AETHER-I Rover** *(Hardware/Web)* | Autonomous 6WD exploration rover with dual microcontrollers and a real-time web dashboard via Web Bluetooth API & Firebase. | ESP32, Arduino, Web Bluetooth, Firebase |
+| **PathPilot** *(Systems/DSA)* | Smart delivery network engine built from scratch using BSTs, adjacency-list graphs, stacks, queues, and persistent file storage. | C |
+
+
+### Tech Stack
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++23-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Web, Backend & AI**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Tools & Embedded**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+---
+
+### GitHub Activity
 
 <div align="center">
-  <a href="https://codeforces.com/profile/mitratanmoy246"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40" /></a> &nbsp;
-  <a href="https://www.codechef.com/users/band_deed_94"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" /></a> &nbsp;
-  <a href="https://leetcode.com/u/mitratanmoy246/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" /></a> &nbsp;
-  <a href="https://atcoder.jp/users/mitratanmoy246"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" height="40" /></a>
-</div>
-
-<hr style="border: 1px solid #E21C21; margin: 20px 0;">
-
-<h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace;">█ EXECUTION ACTIVITY</h3>
-<div align="center">
-  <img src="Screenshot 2026-09-02 200258.png" width="90%" alt="Activity Overview" />
-  <br><br>
-  <img src="Screenshot 2026-09-02 200227.png" width="90%" alt="3D Contribution Graph" />
-  <br><br>
-  <img src="Screenshot 2026-09-02 200241.png" width="90%" alt="Contribution Snake" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitratanmoy246&bg_color=transparent&color=E21C21&line=E21C21&point=E21C21&area=true&area_color=E21C21&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-<hr style="border: 1px solid #E21C21; margin: 20px 0;">
-
-<h3 align="left" style="color: #E21C21; font-family: 'Fira Code', monospace;">█ CORE REPOSITORIES</h3>
-<table width="100%" style="border-collapse: collapse; font-family: sans-serif; background: transparent;">
-  <thead>
-    <tr>
-      <th align="left" style="padding: 12px; color: #E21C21; border-bottom: 2px solid #E21C21;">Source Node</th>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #E21C21;">Functional Specification</th>
-      <th align="center" style="padding: 12px; border-bottom: 2px solid #E21C21;">Core Engine</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left" style="padding: 12px; border-bottom: 1px solid #444;">
-        <a href="https://github.com/mitratanmoy246/cf_solutions" style="color: #E21C21; text-decoration: none; font-weight: bold;">cf_solutions</a>
-      </td>
-      <td align="left" style="padding: 12px; border-bottom: 1px solid #444;">
-        Daily algorithmic implementations. Time-optimized solutions engineered specifically for Codeforces.
-      </td>
-      <td align="center" style="padding: 12px; border-bottom: 1px solid #444;">
-        <img src="https://img.shields.io/badge/C++-transparent?style=flat-square&logo=c%2B%2B&logoColor=E21C21&border=1" alt="C++" />
-      </td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 12px; border-bottom: 1px solid #444;">
-        <a href="https://github.com/mitratanmoy246/Templates" style="color: #E21C21; text-decoration: none; font-weight: bold;">Templates</a>
-      </td>
-      <td align="left" style="padding: 12px; border-bottom: 1px solid #444;">
-        Pre-compiled boilerplate code for rapid contest deployment across various platforms.
-      </td>
-      <td align="center" style="padding: 12px; border-bottom: 1px solid #444;">
-        <img src="https://img.shields.io/badge/C++-transparent?style=flat-square&logo=c%2B%2B&logoColor=E21C21" alt="C++" />
-      </td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 12px; border-bottom: 1px solid #444;">
-        <a href="https://github.com/mitratanmoy246/tm_portfolio" style="color: #E21C21; text-decoration: none; font-weight: bold;">tm_portfolio</a>
-      </td>
-      <td align="left" style="padding: 12px; border-bottom: 1px solid #444;">
-        The source code powering <a href="https://tanmoym.pro.bd" style="color: #E21C21;">tanmoym.pro.bd</a>.
-      </td>
-      <td align="center" style="padding: 12px; border-bottom: 1px solid #444;">
-        <img src="https://img.shields.io/badge/Web-transparent?style=flat-square&logo=html5&logoColor=E21C21" alt="Web" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br><br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mitratanmoy246&label=Profile%20Views&color=E21C21&style=flat-square"/>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21C21&height=90&section=footer" width="100%" alt="Footer Terminal Line" />
-  <code style="color: #555555;">// EXECUTION TERMINATED. ZERO ERRORS.</code>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mitratanmoy246&show_icons=true&theme=transparent&title_color=1B365D&icon_color=2E7D8A&text_color=4A607A&border_color=D0D7DE" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitratanmoy246&layout=compact&theme=transparent&title_color=1B365D&text_color=4A607A&border_color=D0D7DE" alt="Top Languages" />
 </div>
