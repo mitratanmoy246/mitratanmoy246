@@ -33,7 +33,7 @@ I build software systems that combine **algorithmic efficiency** with **practica
 | **[gub_dragons](https://github.com/mitratanmoy246/gub_dragons)** | Live competitive programming team analytics dashboard ([gub-dragons.pro.bd](https://gub-dragons.pro.bd)) tracking operator ratings, contest-by-contest deltas, and verified achievements via API sync. | Web, API Integration, Data Viz |
 | **[tm_portfolio](https://github.com/mitratanmoy246/tm_portfolio)** | Personal developer portfolio ([tanmoym.pro.bd](https://tanmoym.pro.bd)) with a terminal-inspired UI and live Codeforces, CodeChef, and GitHub stats. | JavaScript, HTML/CSS, GitHub Pages |
 | **[PathPilot_mini](https://github.com/mitratanmoy246/PathPilot_mini)** | Smart delivery network engine built from scratch using BSTs, adjacency-list graphs, stacks, queues, and persistent file storage. | C, Data Structures & Algorithms |
-| **[CodeForge](https://github.com/mitratanmoy246/CodeForge)** | Software development project and developer tooling. | Full-Stack |
+| **[CodeForge](https://github.com/mitratanmoy246/CodeForge)** | Software development project and developer tooling. | Java with Supabase and Swing for GUI |
 | **[cf_solutions](https://github.com/mitratanmoy246/cf_solutions)** | Structured archive of time- and memory-optimized competitive programming solutions. | C++23 |
 | **[Templates](https://github.com/mitratanmoy246/Templates)** | Battle-tested C++23 contest templates, fast I/O, and ICPC algorithmic library. | C++23, LaTeX |
 
