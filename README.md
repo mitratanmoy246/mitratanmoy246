@@ -6,6 +6,7 @@
 BSc in Computer Science & Engineering · Green University of Bangladesh · Dhaka, Bangladesh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanmoym.pro.bd-1B365D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanmoym.pro.bd)
+[![Team Dashboard](https://img.shields.io/badge/GUB__DRAGONS-gub--dragons.pro.bd-2E7D8A?style=for-the-badge&logo=vercel&logoColor=white)](https://gub-dragons.pro.bd)
 [![Codeforces](https://img.shields.io/badge/Codeforces-mitratanmoy246-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mitratanmoy246)
 [![CodeChef](https://img.shields.io/badge/CodeChef-band__deed__94-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/band_deed_94)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -16,11 +17,11 @@ BSc in Computer Science & Engineering · Green University of Bangladesh · Dhaka
 
 ### About Me
 
-I build software systems that combine **algorithmic efficiency** with **practical full-stack and AI engineering**. My work spans web applications, developer tooling, graph-based threat intelligence, and embedded robotics.
+I build software systems that combine **algorithmic efficiency** with **practical full-stack and AI engineering**. My work spans web applications, developer tooling, competitive telemetry dashboards, and embedded robotics.
 
 - **Education:** BSc in Computer Science & Engineering, Green University of Bangladesh
 - **Current Focus:** AI-integrated web applications, browser extensions, and scalable backend architectures
-- **Competitive Programming:** Codeforces Pupil · ICPC Asia Dhaka Regional Preliminary Participant (Rank 254 / 1,100+ teams) · 1st Runner-Up, Intra Green Programming Contest 2026 (`CODE GREY`)
+- **Competitive Programming:** Codeforces Pupil (Peak 1,281) · ICPC Asia Dhaka Regional Preliminary Participant (Rank 254 / 1,100+ teams) · 1st Runner-Up, Intra Green Programming Contest 2026 (`CODE GREY`)
 - **Hardware & Systems:** Embedded robotics (ESP32/Arduino), Web Bluetooth dashboards, and custom PCB prototyping
 
 ---
@@ -29,13 +30,14 @@ I build software systems that combine **algorithmic efficiency** with **practica
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[tm_portfolio](https://github.com/mitratanmoy246/tm_portfolio)** | Personal developer portfolio (`tanmoym.pro.bd`) with a terminal-inspired UI and live Codeforces, CodeChef, and GitHub stats. | JavaScript, HTML/CSS, GitHub Pages |
+| **[gub_dragons](https://github.com/mitratanmoy246/gub_dragons)** | Live competitive programming team analytics dashboard ([gub-dragons.pro.bd](https://gub-dragons.pro.bd)) tracking operator ratings, contest-by-contest deltas, and verified achievements via API sync. | Web, API Integration, Data Viz |
+| **[tm_portfolio](https://github.com/mitratanmoy246/tm_portfolio)** | Personal developer portfolio ([tanmoym.pro.bd](https://tanmoym.pro.bd)) with a terminal-inspired UI and live Codeforces, CodeChef, and GitHub stats. | JavaScript, HTML/CSS, GitHub Pages |
+| **[PathPilot_mini](https://github.com/mitratanmoy246/PathPilot_mini)** | Smart delivery network engine built from scratch using BSTs, adjacency-list graphs, stacks, queues, and persistent file storage. | C, Data Structures & Algorithms |
 | **[CodeForge](https://github.com/mitratanmoy246/CodeForge)** | Software development project and developer tooling. | Full-Stack |
 | **[cf_solutions](https://github.com/mitratanmoy246/cf_solutions)** | Structured archive of time- and memory-optimized competitive programming solutions. | C++23 |
 | **[Templates](https://github.com/mitratanmoy246/Templates)** | Battle-tested C++23 contest templates, fast I/O, and ICPC algorithmic library. | C++23, LaTeX |
-| **AETHER-I Rover** *(Hardware/Web)* | Autonomous 6WD exploration rover with dual microcontrollers and a real-time web dashboard via Web Bluetooth API & Firebase. | ESP32, Arduino, Web Bluetooth, Firebase |
-| **PathPilot** *(Systems/DSA)* | Smart delivery network engine built from scratch using BSTs, adjacency-list graphs, stacks, queues, and persistent file storage. | C |
 
+---
 
 ### Tech Stack
 
